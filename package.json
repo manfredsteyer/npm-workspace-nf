@@ -1,0 +1,11 @@
+{
+  "name": "npm-workspace-react",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "packages/native-demo-react"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
